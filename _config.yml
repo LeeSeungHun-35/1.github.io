@@ -1,4 +1,4 @@
-title: Urban Template
+title: User
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
@@ -14,9 +14,9 @@ author:
 
 # Social details for the jekyll-seo-tag gem
 social:
-  name: Urban Template
+  name: User
   links:
-    - https://github.com/CloudCannon/urban-jekyll-template
+    - https://leeseunghun-35.github.io/1.github.io/
 
 timezone: Etc/UTC
 
